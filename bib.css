@@ -1,0 +1,10 @@
+article{
+	width:50%;
+	border:1px solid brown;
+	margin:10px;
+	padding:5px;
+	border-radius:12px;
+}
+p {
+	font-size:20px;
+}
